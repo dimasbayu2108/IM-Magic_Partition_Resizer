@@ -33,3 +33,8 @@ CompanyName   : IM-Magic Inc.
 Virus Analysis: 0/68 (virus total)
 https://www.virustotal.com/gui/file/ed93f3dee1cb0e081ac5f00b0cf6386b4dbba26f94fe3f367f5c12bfa93dbbda/details
 
+Additional Notes:
+1. gunakan folder "x64" untuk windows yang 64 bit. dan gunakan "x86" untuk windows yang 32 bit
+2. untuk memakai aplikasi, jalankan "dm.resizer.exe" baik pada folder "x64" maupun folder "x86" sesuai dengan windows yang terinstall
+3. jika ingin memakai edisi lain, anda bisa gunakan serial number yang ada atau dianjurkan untuk membeli lisensi dari official web yang tersedia.
+
