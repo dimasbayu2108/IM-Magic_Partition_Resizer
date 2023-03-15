@@ -8,30 +8,30 @@ Official Website: https://www.resize-c.com/
 
 IM-Magic Partition Resizer information details
 Details       : dm.resizer.exe (32 bit) 
-MD5           : 6f1940f3db9d102790236da50baf202c
-SHA1          : 4578f85cdda5b97fb88fd1b9bfd96145b1a48ccb
+MD5           : be04870b5ef46cfb4a92bd12d1078c82
+SHA1          : 303dd8f837c0401939ebaf3a6638d8478e7786fa
 File type     : executable
-File size     : 12.8 MB
-File Version  : 6.1.0.0
-Copyright     : Copyright (C) 2014-2022 IM-Magic.
+File size     : 12.89 MB
+File Version  : 6.2.0.0
+Copyright     : Copyright (C) 2014-2023 IM-Magic.
 Product       : IM-Magic Partition Resizer
 Description   : IM-Magic Partition Resizer
 CompanyName   : IM-Magic Inc.
-Virus Analysis: 0/71 (virus total)
-https://www.virustotal.com/gui/file/a59524ed22bbcdd1ea7da9d8e2ca517b5e7cf4a6aac7cb4a2792bd4aa42dd763/details
+Virus Analysis: 0/70 (virus total)
+https://www.virustotal.com/gui/file/83358fa0bef1e9c2e52c95077526ec4ab5295674c5c4f81d6f8159fa74844f55/details
 
 Details       : dm.resizer.exe (64 bit) 
-MD5           : f33ed814449d67805923e602e60b0b1f
-SHA1          : e4664de4dde9df174a39d85b7687062e45e7fdd2
+MD5           : ba7c0bcc413def80521a7e2c7575db7e
+SHA1          : e3180cfa8b7c9edb1201f66722cc214d7be24b78
 File type     : executable
-File size     : 17.1 MB
-File Version  : 6.1.0.0
-Copyright     : Copyright (C) 2014-2022 IM-Magic.
+File size     : 17.18 MB
+File Version  : 6.2.0.0
+Copyright     : Copyright (C) 2014-2023 IM-Magic.
 Product       : IM-Magic Partition Resizer
 Description   : IM-Magic Partition Resizer
 CompanyName   : IM-Magic Inc.
-Virus Analysis: 0/71 (virus total)
-https://www.virustotal.com/gui/file/2545e70b92fc5a60e10851cdcf4b46738e30dee024e9fb89d578053fab929ba1/details
+Virus Analysis: 0/70 (virus total)
+https://www.virustotal.com/gui/file/2dbfe1f10e9fed8383f48bbcf91eb48c0f02a15861816d4434c204e25b40d12e/details
 
 Additional Notes:
 1. gunakan folder "x64" untuk windows yang 64 bit. dan gunakan "x32" untuk windows yang 32 bit
